@@ -1,0 +1,16 @@
+{
+  "controller_version": "territorial-v3.3",
+  "native_archive_version": "brawler-v2",
+  "normal_archive_unchanged": true,
+  "mother_archive_added": true,
+  "mother_animation_graph_readback": "root scale 2, original upstream linked; engine test pending",
+  "controller_sha256": "abf8c47d06c8fcb8e6989acb6a4dd8760597b5f34d1bc8c57235ba08c6818c2a",
+  "installed_paths": [
+    "E:\\Games\\Cyberpunk 2077\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawCreature\\init.lua",
+    "E:\\Modding\\Cyberpunk2077\\overwrite\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawCreature\\init.lua"
+  ],
+  "mock_regression_tests": "passed",
+  "v3_3_engine_test": "pending game restart and fresh spawn",
+  "health_multiplier": 20,
+  "damage_multiplier": 4
+}

@@ -1,0 +1,20 @@
+# Local dependencies and downloaded tool distributions
+/.venv/
+/tools/wolvenkit-cli/
+/tools/wolvenkit-cli.zip
+/tools/blender-cp77/
+/tools/blender-cp77.zip
+
+# Reproducible intermediate outputs; release packages in dist are tracked
+/build/
+/tools/*/bin/
+/tools/*/obj/
+**/__pycache__/
+*.pyc
+*.log
+*.blend1
+*.blend2
+
+# Personal save backups and temporary disabled-mod staging
+/save-backup-before-testing/
+/test-disabled/

@@ -1,0 +1,11 @@
+{
+  "version": "brawler-v2",
+  "source": "user in-game test",
+  "observed": [
+    "Attacked and killed V",
+    "Hesitated about 10 seconds when hit",
+    "Patrol NPC hunt and aimed NPC attack did not reliably engage",
+    "Later attacked nearby Voodoo Boys and was killed quickly"
+  ],
+  "requested": "Faster territorial aggression and retaliation; more health and damage for Militech convoy battle"
+}

@@ -1,0 +1,14 @@
+{
+  "source": "User in-game report",
+  "version": "android-v1",
+  "spawn": true,
+  "patrol": true,
+  "locomotion_issue": "Funny limp",
+  "combat_entered": true,
+  "attacks": false,
+  "combat_issue": "Stationary blocking pose",
+  "damage_received": true,
+  "death": true,
+  "durability_issue": "Died in a couple of hits",
+  "measured_travel_metres": 15.373979502094
+}

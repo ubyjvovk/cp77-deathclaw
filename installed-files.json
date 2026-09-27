@@ -1,0 +1,17 @@
+[
+  {
+    "source": "E:\\Modding\\DeathclawBadlands\\dist\\Deathclaw Badlands\\archive\\pc\\mod\\deathclaw_badlands.archive",
+    "target": "E:\\Games\\Cyberpunk 2077\\archive\\pc\\mod\\deathclaw_badlands.archive",
+    "sha256": "8808b785cf8bc99cf522ed92fab6974d0852b8af91082461c3e6b81cd4c6478e"
+  },
+  {
+    "source": "E:\\Modding\\DeathclawBadlands\\dist\\Deathclaw Badlands\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawBadlands\\init.lua",
+    "target": "E:\\Games\\Cyberpunk 2077\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawBadlands\\init.lua",
+    "sha256": "3cdd781093ca8854d0c8934bd4140af584a96c25c97502134320f2a7c658f555"
+  },
+  {
+    "source": "E:\\Modding\\DeathclawBadlands\\dist\\Deathclaw Badlands\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawBadlands\\init.lua",
+    "target": "E:\\Modding\\Cyberpunk2077\\overwrite\\bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawBadlands\\init.lua",
+    "sha256": "3cdd781093ca8854d0c8934bd4140af584a96c25c97502134320f2a7c658f555"
+  }
+]

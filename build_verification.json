@@ -1,0 +1,31 @@
+{
+  "compiled_resources_verified": true,
+  "triangles_after_roundtrip": 6930,
+  "height_metres": 3.2,
+  "collision_boxes": 4,
+  "texture_resolution": [
+    1024,
+    1024
+  ],
+  "in_game_appearance_verified": false,
+  "in_game_placement_verified": false,
+  "in_game_collision_verified": false,
+  "reload_behaviour_verified": false,
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 4244,
+      "sha256": "8bef5273dd7ab660012892f2e70b090f67e2e892f1cd1726f0efa2940e4e9bc2"
+    },
+    {
+      "path": "archive\\pc\\mod\\deathclaw_badlands.archive",
+      "bytes": 1810432,
+      "sha256": "8808b785cf8bc99cf522ed92fab6974d0852b8af91082461c3e6b81cd4c6478e"
+    },
+    {
+      "path": "bin\\x64\\plugins\\cyber_engine_tweaks\\mods\\DeathclawBadlands\\init.lua",
+      "bytes": 4659,
+      "sha256": "3cdd781093ca8854d0c8934bd4140af584a96c25c97502134320f2a7c658f555"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+* text=auto
+*.lua text eol=lf
+*.py text eol=lf
+*.cs text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.archive binary
+*.blend binary
+*.glb binary
+*.ent binary
+*.mesh binary
+*.xbm binary
+*.animgraph binary
+*.anims binary
+*.rig binary
+*.nif binary
+*.kf binary
+*.dds binary
+*.png binary
+*.gif binary
+*.zip binary

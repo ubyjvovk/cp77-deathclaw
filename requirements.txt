@@ -1,0 +1,4 @@
+lupa==2.8
+pillow==12.3.0
+PyFFI==2.2.3
+setuptools==84.0.0

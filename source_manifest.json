@@ -1,0 +1,536 @@
+[
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclaw_sign/nv_deathclawsign.nif",
+    "bytes": 93047,
+    "sha256": "9b3abc4702e4be79867b90388f4cf6872c85479c29fd27607aba314d38e58307"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\enclaveencampment/deathclawcagedoor.nif",
+    "bytes": 161106,
+    "sha256": "ea0e9d3f54f7788cdd0185a35c2d8a556e7c9e54c7944bb4438cf316c09fdf5f"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\enclaveencampment/deathclawcage.nif",
+    "bytes": 1203058,
+    "sha256": "ec2ebd367db85a54b9d041b1d9e8519039dc88c060eeb3bfa87186c4add05300"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclawegg_broken/deathclaweggnv_broken01.nif",
+    "bytes": 38505,
+    "sha256": "c4d90732d9ca0ce05cd014aeb84bd3618df6f948fe44ed910fd2bf57622eb230"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclawegg_broken/deathclaweggnv_broken02.nif",
+    "bytes": 34395,
+    "sha256": "e5fd4ee0100baaad9e2941832a2b1f9c4ae2b064a509186fd4adeb1c7ba7ae06"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclawegg_broken/deathclaweggnv_broken.nif",
+    "bytes": 71245,
+    "sha256": "35e8518e435a09e2aa71a29807d2cd7ed8522defc2d4eabe001d40dd7011e294"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_crouchloop.kf",
+    "bytes": 47454,
+    "sha256": "e3fc4f703dce4c78f1359bd9a64d49f1750073b2880b1dcf60ae4a0e9df99fa3"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hitarmright.kf",
+    "bytes": 18672,
+    "sha256": "2fc38fa8f7f2447daa658b85028e97669b47c7e8e77f7a9b644a90637ebca510"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hitlegleft.kf",
+    "bytes": 16388,
+    "sha256": "6ef68e73e2408c7ead540ff1740ae5e91bc883602567d94e939b5b75c7d0b883"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hittorso.kf",
+    "bytes": 18713,
+    "sha256": "a362e0808d8f01d26f45edb94ee4b0398f9c572512ce827e2304bcc4791618fc"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_cageexit.kf",
+    "bytes": 90256,
+    "sha256": "5409cecd44b0bfee515ae1b10f6bd7bb9c156e4d621a81eac6a39d47ef745637"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_cageidle.kf",
+    "bytes": 17574,
+    "sha256": "da122b2ce2aef5ca0155f247310abd83d9ee512f8490180e2fc87f559293e612"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_clawscrape.kf",
+    "bytes": 42917,
+    "sha256": "f3142f3f4884c636e71afe8e78c4f894f8e98f8485d2b77c22481625dfb7cca6"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_teethpick.kf",
+    "bytes": 78066,
+    "sha256": "b1245dfbbe0f2cdb6a219cd465cefce3fefe120b5dbc5284463aecf1a703e43c"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hitlegright.kf",
+    "bytes": 16501,
+    "sha256": "ab03c1729cb5ea706433c4681bb8ef720447051ab0ed881d6b0d0db5a6be9e5c"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hitarmleft.kf",
+    "bytes": 18648,
+    "sha256": "84af56e170113dd2e29395a303fe3c497945d39b94077fe39b386c4ec5fe878a"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_getupfaceup.kf",
+    "bytes": 40025,
+    "sha256": "bf075081867615d94a2cef5750841c78253035c1713335a198d1f45c69421a11"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_getupfacedown.kf",
+    "bytes": 40257,
+    "sha256": "7c17a6ce95b3471b091234d63dc68f3c1bdfefeadfe0583b6cbec06df25902bb"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\idleanims/specialidle_hithead.kf",
+    "bytes": 19004,
+    "sha256": "f84ed8214c3c402d3c0211d2648f078f8b72e5ba1fc911c286c4aeaca256f31e"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclaw_graffiti/nv_deathclawgraffiti.nif",
+    "bytes": 1047,
+    "sha256": "ec92d7b3f86ff2d3e3b3b37efbee5e1b5e387c01e2278fe90943b73589a79a6a"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtfastforward.kf",
+    "bytes": 14653,
+    "sha256": "f7465b04161bca2d9e000269f59d88084e475eec6401afac16c5885fe6fddab9"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtturnleft.kf",
+    "bytes": 16687,
+    "sha256": "2a646b01fca303f22c37a6719bfd7b6dc32248a38c96495d850bd3be41e2f441"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtleft.kf",
+    "bytes": 19662,
+    "sha256": "ebb1af814f6faac795aa7763ed19b7c03bd5a528412e8141f70a37b880321c21"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtright.kf",
+    "bytes": 19695,
+    "sha256": "2f7534aeb460fe556f95835b5582dc72d32d5866835dade4f5c8a10f42645d44"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtbackward.kf",
+    "bytes": 21420,
+    "sha256": "1cc5e6cdfc65c38c14fc7e9c6e631c216c15fbd8f53be43ac064c24df26c3124"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtturnright.kf",
+    "bytes": 16688,
+    "sha256": "1e16bd2d6ad1d6827e1d7c6eb7a3e9b85b4266b2e4caf060c826d5b6227a6b42"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion/mtfoward.kf",
+    "bytes": 27173,
+    "sha256": "4fbe58b61336ee0664fd3c4da557935a89351797b2a8d38e455d4fd8f154bd31"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\characters\\_male\\idleanims/vatsh2hattackpower_deathclawgauntletlow.kf",
+    "bytes": 26354,
+    "sha256": "24570e3c4aafff298325c392cceb810093fa509f3d0f32f3b549c4d51ca9f4f6"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\characters\\_male\\idleanims/vatsh2hattackpower_deathclawgauntletmid.kf",
+    "bytes": 28304,
+    "sha256": "8ac4a1382024f518f395efc57ab83cd8668bd70f300ac6fa164ea6c72b440152"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtturnleft_hurt.kf",
+    "bytes": 14657,
+    "sha256": "260571c717bc6e5ac5e0afcd143f9de4f733fd7f3ff9bb5a45de8620e99fa0d5"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtleft_hurt.kf",
+    "bytes": 15924,
+    "sha256": "4abd32781b6b7015c06805a6ed12959625ed5b6db09ca5955dd9e5a8bc91098c"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtturnright_hurt.kf",
+    "bytes": 14658,
+    "sha256": "a6501d12a2da234924ff6aefa04dbf3b9eb45be5b391a81bcd27a69f95e5ec9f"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtfastforward_hurt.kf",
+    "bytes": 23619,
+    "sha256": "73716695a412849846ce010c77b63b669fc9b95067132cd726fdcecc5d0ac25d"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtbackward_hurt.kf",
+    "bytes": 20636,
+    "sha256": "5fd55abe86a7b62667abf466eb7b34cf7fb1b65bb99830c79777081dfab3ddaf"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtforward_hurt.kf",
+    "bytes": 27173,
+    "sha256": "ccad36a0ba71a33bab6aa7d5c4769a78f3ac9d082a89b29af7fb61dc629845d4"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw\\locomotion\\hurt/mtright_hurt.kf",
+    "bytes": 16063,
+    "sha256": "75747a2edff31e32788054b86903fe07bdc1705e6916c0c3f0c8db79288ccc90"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\deathclaw_egg/deathclaw_egg.nif",
+    "bytes": 14468,
+    "sha256": "46d6a3913b0a14f861032665c19099a1d23e82f8ae5ba12ebeab03bb93f55132"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\dlc03\\clutter\\signs\\crawler/dlc03crsigndeathclaw01.nif",
+    "bytes": 172193,
+    "sha256": "ba4b289807531ce8cdb59889b4655f035ef37f54cd4dffe6cd0babeb777d17ba"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\clutter\\questitems/severeddeathclawclaw.nif",
+    "bytes": 77146,
+    "sha256": "ddecd8655360e571fa466824cbc200065fea337bfb656cff8f3d986c8adabaed"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\weapons\\hand2hand/deathclawbeltgo.nif",
+    "bytes": 19655,
+    "sha256": "8a44236fa9388a941f306590bc6c53b616813418ac027b250e4fb0867d17eba5"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\weapons\\hand2hand/deathclawgauntletworldobject.nif",
+    "bytes": 268380,
+    "sha256": "1c2c9903420a910c46e3d22c3427c6b70a31952259c04a0a71e275a08ace3565"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\weapons\\hand2hand/deathclawgauntlet.nif",
+    "bytes": 464994,
+    "sha256": "8beaa40746c8493098a6baced820fa161a3230f82c0c0123240b59d9a0188988"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackleft_a.kf",
+    "bytes": 19338,
+    "sha256": "030a2e7ffc70125cbf40bd1a517f1403bcaf82dabf5eaaa4b489b59aa0f0ef19"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackleft_b.kf",
+    "bytes": 18810,
+    "sha256": "345db417ee91da9a6222bc068a95a8ff19806fa8403112d5d0377ddf72d0bbf8"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hunequip.kf",
+    "bytes": 19517,
+    "sha256": "0286ec0e40a6d9e4bad2a50442848e72fe7365a34d16edc60bbb0782715125dc"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2haim.kf",
+    "bytes": 27826,
+    "sha256": "812956d25bc4b183bc85afbb91752759a58fd6eec7a9be1b6a04d8967d0d3326"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackforwardpower.kf",
+    "bytes": 26990,
+    "sha256": "c7041fa360fd265c0e9403b1a2604d6a40cdef12969556ffd0b37e8e718e7a86"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/mtidle.kf",
+    "bytes": 39729,
+    "sha256": "9011cf64421b1100dd087bf6201f21397ca82c2c518f8602f04b2d591c38af6b"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathclaw.nif",
+    "bytes": 605291,
+    "sha256": "350e9cebf4d9507e8de0a2712e2cc6583358fbab9557fb660b35f1b97b840593"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathposes.psa",
+    "bytes": 5940,
+    "sha256": "2f315f73f94f2d15c054c6bc7083e58e17b2cda79d1a510c3cf2ee3bf1553c72"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hequip.kf",
+    "bytes": 19521,
+    "sha256": "b5766cdee80f63efd5911780f2e0e0063d6e3e877df024de960c19d054ae791c"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/skeleton.nif",
+    "bytes": 38318,
+    "sha256": "9a5e364b6ae58d549f86533f5652f0278cb3ff8fbeac4d00be137cd209df4a54"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackrightpower.kf",
+    "bytes": 22133,
+    "sha256": "7b9b5bfd1003f93b2b02563572613ec871a140943fb3e7de99ff93b6a4036b58"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathclaw_alphamale.nif",
+    "bytes": 611265,
+    "sha256": "a56f539de1354ef4dcf291a0ffbf6c9736b55ce45d3b8b57fc2d0df3cb8b69b8"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackright_a.kf",
+    "bytes": 18811,
+    "sha256": "30dfcf93c39084e0cc5fbbcf260938b1acbec3abc173e5ec6dbbd69d564fb48e"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackright_b.kf",
+    "bytes": 18811,
+    "sha256": "c5b0a49902eb67193c1deda53fa90169e989d2be83780eac2daf80ffb1f2b55b"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hattackleftpower.kf",
+    "bytes": 21484,
+    "sha256": "d5d5fb17ad73a6caa6e0d6669be9ffe6fe06474ab2e3e06cf948a1abc9ac56b5"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathclaw_am_g.nif",
+    "bytes": 611266,
+    "sha256": "1346856b496fd6fd44a2ccd28659ce89dadd21488a32b43527c995e747e3600c"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathclaw_baby.nif",
+    "bytes": 576268,
+    "sha256": "c5a80a0295efb10eab3fac1bebf9b502aaa7092d67fdfc0448f054a807a88f84"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/deathclaw_mother.nif",
+    "bytes": 639049,
+    "sha256": "1e9edd7d6acf4666a41560cfcb5ab5069068173d3c83bd9478b706d64658d19b"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hholster.kf",
+    "bytes": 918,
+    "sha256": "0eb791fac46fd24d7bf71a6959478b711e72a0d3908db67646178a83e4413f2f"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/h2hrecoil.kf",
+    "bytes": 18783,
+    "sha256": "383ff48e262c2744cebc151ba5df5eac09cef564e5da79f299a3a09748090862"
+  },
+  {
+    "archive": "Fallout - Meshes.bsa",
+    "path": "meshes\\creatures\\deathclaw/enclaveaddon.nif",
+    "bytes": 143096,
+    "sha256": "0b57acc695f438ce8475a3278ef9cac5f4dc0cc5d87907f686a1e2d984455acb"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_egg/deathclawegg.dds",
+    "bytes": 349672,
+    "sha256": "6fd05f1ef99017e7090104a5f81141edd6c9aaef05cc6e42e7acef7d66d41098"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_egg/deathclawegg_n.dds",
+    "bytes": 699216,
+    "sha256": "0463174aac0086a2263ee2d627ce430afc342e7c5ca9a4b6b3c4e4af3ac85e8e"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_graffiti/nv_deathclaw_graffiti.dds",
+    "bytes": 349680,
+    "sha256": "db54ab11e5f75b232ccc07fc91200055127c5e8112689061675e7314751a68cc"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_alphamale1.dds",
+    "bytes": 699192,
+    "sha256": "f909d19de176fb164dc2f7d2be1ccd147ed9dc9e78abf01fab962daa8f8a463e"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_female_n.dds",
+    "bytes": 699192,
+    "sha256": "5f694c782b78ec472f40feba8840ba823386aa1e740066de41f0a917eb4add6a"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw.dds",
+    "bytes": 699192,
+    "sha256": "1d2088770be670054267ebc059f1c559302016eef716dc6d227292f2482f035f"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_female.dds",
+    "bytes": 699192,
+    "sha256": "5b3cfdaeb1cd0fd849ae01bbf0c2112fcbbc6e36ede9b4a4f3d26eaacfa778b0"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_baby_n.dds",
+    "bytes": 699192,
+    "sha256": "65590ee3c6bc56ce86b8ddbebc612db604a315a9fe7c1abda4ff24fafef56d1f"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_baby.dds",
+    "bytes": 699192,
+    "sha256": "0a24f6abfd676dd9cc288186b56da022061cb091d7ee026cfac550f7ebf671d6"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\creatures\\deathclaw/deathclaw_n.dds",
+    "bytes": 699192,
+    "sha256": "de3e91c52acb2d99fc97bff35cbf39077af15d04df18e2eb40c013a4feab2863"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_sign/nv_deathclaw_sign_01.dds",
+    "bytes": 349680,
+    "sha256": "c6a52e87d9049570dc73d695029311f483092f15dfbf42804574069ea64ae5fa"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_sign/nv_deathclaw_sign_02.dds",
+    "bytes": 174904,
+    "sha256": "0807f91afed092587f37d9d9889048b05303915f3bc9e05416a5bed80d8d3b17"
+  },
+  {
+    "archive": "Fallout - Textures.bsa",
+    "path": "textures\\clutter\\deathclaw_sign/nv_deathclaw_sign_02_n.dds",
+    "bytes": 174904,
+    "sha256": "c31ea824d11cff3728d7ce4b5308cd9e233bb22242d61bbc1561e3790b744ac8"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages_small\\items_small/glow_items_schematics_deathclaw.dds",
+    "bytes": 65664,
+    "sha256": "3714122606b79e00bae0ab6d0bea44f24c26977000d6923b8d5b3c612546f95f"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntletglove.dds",
+    "bytes": 699192,
+    "sha256": "67dd6c4a20bf62cbe5fc90d17e77b18c22f706ee75cb2714af347addf59cc5d5"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntlet_m.dds",
+    "bytes": 43832,
+    "sha256": "1cdccb020cb30dee1c9b4cbb8956bdf31b914983e4f618f17cdbf6d1e13bdae8"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntlet_n.dds",
+    "bytes": 1398256,
+    "sha256": "5bb7a1166ac20113e449e4909dfd03ddeaee6a10ff0e9b7ac9a8e178fc26da1d"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntletgo.dds",
+    "bytes": 43832,
+    "sha256": "2276d2a1ade35db8524d0878e5db68c5df0893018afefb2336bbd737d3878c20"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntletglove_n.dds",
+    "bytes": 349680,
+    "sha256": "a0cbfd6284eb23d8f343c2c2b002b50f3c4103c83f8cabf0348fd688662f46dc"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntletgo_n.dds",
+    "bytes": 87536,
+    "sha256": "bfb87ca85255644ae35e859b6dd617ca346b0a4bb3f78e2a3e28867639e6b0d6"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\weapons\\hand2hand/deathclawgauntlet.dds",
+    "bytes": 699192,
+    "sha256": "e0997445d8e5c520dec54cbf521df9b7fc10ea7a9cc89bac3909136f1207ab4e"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages\\weapons/weapons_deathclaw.dds",
+    "bytes": 65664,
+    "sha256": "54b436cc2b522f97a33023debe193c2b470203d980cf4acd70e41d15a0322afb"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages\\items/items_deathclaw_egg.dds",
+    "bytes": 65664,
+    "sha256": "6b2163144a60015f1424d7ba42f8c32480e65d8e1a8b66bec1a70c34f89ade08"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages\\items/items_deathclaw.dds",
+    "bytes": 65664,
+    "sha256": "a8a8ddc0494a1846b472358ec216a0aa73406cb2b870df58e627817b257edaee"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages\\items/items_schematics_deathclaw.dds",
+    "bytes": 65664,
+    "sha256": "d493186c9220e94f610c2001fd069f877b49fa064c8137417a415502205498ff"
+  },
+  {
+    "archive": "Fallout - Textures2.bsa",
+    "path": "textures\\interface\\icons\\pipboyimages_small\\weapons_small/glow_weapons_deathclaw.dds",
+    "bytes": 65664,
+    "sha256": "b94ce49e55e0e9f8ddd8f0d93728837b16a9821311a098052ef144a60232495d"
+  }
+]
